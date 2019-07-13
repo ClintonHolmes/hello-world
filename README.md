@@ -10,6 +10,6 @@ I'm yearning to build things again. I went to school for Chemical Engineering an
 
 I'm starting with Web Development languages. Specifically, HTML, CSS, and JavaScript. I have some experience with each, but would like to get to the point that I could land a job or earn money coding on the side.  
 
-Thanks for visiting -- let me know if you have any advice for someone making the transition from Product Managerment to developer. 
+Thanks for visiting -- let me know if you have any advice for someone making the transition from Product Managerment to Developer. 
 
 -Clinton
